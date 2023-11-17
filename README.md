@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuestrange&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xuestrange&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xuestrange&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xuestrange&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xuestrange&theme=tokyonight&utcOffset=8)
