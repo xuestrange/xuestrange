@@ -1,5 +1,8 @@
 ### Hi there 👋
 Welcome!
+
+"What I cannot create, I do not understand" -- Richard Feynman
+
 <!--
 **xuestrange/xuestrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
